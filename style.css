@@ -1,0 +1,12 @@
+.topnavbar{
+    background-color: white;
+    width: 100vw;
+    height: 70px !important;
+    
+    color: black !important;
+}
+
+.logonavbar{
+    width: 200px !important;
+    height: 50px !important;
+}
